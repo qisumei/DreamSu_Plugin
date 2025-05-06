@@ -1,0 +1,8 @@
+aiosqlite
+aiohttp
+requests
+Pillow
+torch
+numpy
+ChatTTS
+sounddevice
